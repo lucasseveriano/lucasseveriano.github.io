@@ -1,4 +1,4 @@
-![Lucas Severiano](https://github.com/lucasseveriano/lucasseveriano.github.io/raw/master/lucasseveriano.jpg)  
+![Lucas Severiano](https://github.com/lucasseveriano/lucasseveriano.github.io/blob/main/lucasseveriano.jpg)  
 
 Lucas Severiano dos Santos (Lucas Severiano)
 
